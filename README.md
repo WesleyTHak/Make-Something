@@ -1,5 +1,5 @@
 # Make-Something
-Make Something assignment
+A repo created for a group porject for CMPINF0010
 # Group Members:
 Wesley Hakanen
 Paul Doherty
