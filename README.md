@@ -4,16 +4,16 @@ A repo created for a group porject for CMPINF0010
 Wesley Hakanen
 Paul Doherty
 # What it Does
-Asks for a name
+Asks for a name.
 Asks for their age
-Prints out their name and age
+Prints out their name and age in 5 years.
 # Installation
 ## How to get it
 Copy link of code in github. Then use open Juypterlab and open a terminal. Enter in "git clone" then a space and paste the link of our code in.
 ## How to run it
 Hit shift enter to run the code.
 # How to Use it
-Run the code and follow the inputs asked for
+Run the code and follow the inputs asked for.
 ![screenshot](img.png)
 # How to Contribute
 Use the code however you would like. There is no need to pull request because the code is open for use and changes.
