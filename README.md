@@ -17,6 +17,6 @@ Run the code and follow the inputs asked for
 # How to Contribute
 Use the code however you would like. There is no need to pull request because the code is open for use and changes.
 # Code of Condut
-
+We chose this Code of Conduct because we want the use of our code to be respectful and responsible. It is important to keep everyone in mind.
 # License
 We chose this license because our code is just for a student project and it is very simple.
