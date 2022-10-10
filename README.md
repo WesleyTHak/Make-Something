@@ -15,7 +15,7 @@ Hit shift enter to run the code.
 # How to Use it
 Run the code and follow the inputs asked for
 # How to Contribute
-Use the code however you would like
+Use the code however you would like. There is no need to pull request because the code is open for use and changes.
 # Code of Condut
 
 # License
